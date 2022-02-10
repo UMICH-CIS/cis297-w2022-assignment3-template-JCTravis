@@ -1,0 +1,2 @@
+C:\Users\travi\Source\Repos\cis297-w2022-assignment3-template-JCTravis\BankApplication\obj\Debug\BankApplication.csproj.AssemblyReference.cache
+C:\Users\travi\Source\Repos\cis297-w2022-assignment3-template-JCTravis\BankApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
