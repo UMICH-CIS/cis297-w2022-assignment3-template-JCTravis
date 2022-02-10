@@ -40,7 +40,7 @@ namespace BankApplication
 
                 else
                 {
-                    throw new ArgumentOutOfRangeException("Balance", value, "Balance should be greater than 0");
+                    throw new ArgumentOutOfRangeException("Balance", value, "Balance should be more than 0.00");
                 }
             }
         }
